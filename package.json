@@ -2,8 +2,33 @@
   "name": "",
   "version": "",
   "scripts": {
+    "tslint": "tslint --project tsconfig.json --config tslint.json",
+    "tslint:fix": "tslint --project tsconfig.json --config tslint.json --fix",
+    "eslint": "eslint .",
+    "eslint:fix": "eslint . --fix",
+    "lint": "npm run eslint && npm run tslint",
+    "test": "jest --verbose --coverage"
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "7.0.0-beta.46",
+    "@babel/preset-env": "7.0.0-beta.46",
+    "@cid-harvard/eslint-config": "0.1.2",
+    "@cid-harvard/tslint-config": "0.3.0",
+    "@types/node": "10.0.5",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "8.2.3",
+    "babel-jest": "22.4.3",
+    "eslint": "4.19.1",
+    "eslint-plugin-jest": "21.15.1",
+    "eslint-plugin-react": "7.7.0",
+    "jest": "22.4.3",
+    "ts-jest": "22.4.5",
+    "tslint": "5.10.0",
+    "typescript": "2.8.3"
+  },
+  "dependencies": {
+  }
 }

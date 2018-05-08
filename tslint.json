@@ -1,0 +1,6 @@
+{
+  "extends": ["@cid-harvard/tslint-config"],
+  "rules": {
+    "interface-name": false
+  }
+}
