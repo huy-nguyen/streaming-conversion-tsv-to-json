@@ -1,0 +1,127 @@
+[
+  {
+    "tconst": "tt0000001",
+    "principals": [
+      {
+        "nconst": "nm1588970",
+        "category": "self",
+        "job": null,
+        "characters": ["Herself"]
+      },
+      {
+        "nconst": "nm0005690",
+        "category": "director",
+        "job": null,
+        "characters": null
+      },
+      {
+        "nconst": "nm0374658",
+        "category": "cinematographer",
+        "job": "director of photography",
+        "characters": null
+      }
+    ]
+  },
+  {
+    "tconst": "tt0000002",
+    "principals": [
+      {
+        "nconst": "nm0721526",
+        "category": "director",
+        "job": null,
+        "characters": null
+      }
+    ]
+  },
+  {
+    "tconst": "tt0000003",
+    "principals": [
+      {
+        "nconst": "nm0721526",
+        "category": "director",
+        "job": null,
+        "characters": null
+      },
+      {
+        "nconst": "nm5442194",
+        "category": "producer",
+        "job": "producer",
+        "characters": null
+      },
+      {
+        "nconst": "nm1335271",
+        "category": "composer",
+        "job": null,
+        "characters": null
+      },
+      {
+        "nconst": "nm5442200",
+        "category": "editor",
+        "job": null,
+        "characters": null
+      }
+    ]
+  },
+  {
+    "tconst": "tt0000004",
+    "principals": [
+      {
+        "nconst": "nm0721526",
+        "category": "director",
+        "job": null,
+        "characters": null
+      },
+      {
+        "nconst": "nm1335271",
+        "category": "composer",
+        "job": null,
+        "characters": null
+      }
+    ]
+  },
+  {
+    "tconst": "tt0000005",
+    "principals": [
+      {
+        "nconst": "nm0443482",
+        "category": "actor",
+        "job": null,
+        "characters": ["Himself"]
+      },
+      {
+        "nconst": "nm0653042",
+        "category": "actor",
+        "job": null,
+        "characters": ["Himself" , "Some other dude"]
+      },
+      {
+        "nconst": "nm0005690",
+        "category": "director",
+        "job": null,
+        "characters": null
+      }
+    ]
+  },
+  {
+    "tconst": "tt0000006",
+    "principals": [
+      {
+        "nconst": "nm0005690",
+        "category": "director",
+        "job": null,
+        "characters": null
+      }
+    ]
+  },
+  {
+    "tconst": "tt0000007",
+    "principals": [
+      {
+        "nconst": "nm0179163",
+        "category": "actress",
+        "job": null,
+        "characters": ["Madeleine Fontevrault \"das Bildnis\""]
+      }
+    ]
+  }
+]

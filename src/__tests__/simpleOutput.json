@@ -1,0 +1,85 @@
+[
+  {
+    "tconst": "tt0000001",
+    "titleType": "short",
+    "primaryTitle": "Carmencita",
+    "originalTitle": "Carmencita",
+    "isAdult": true,
+    "startYear": 1894,
+    "endYear": null,
+    "runtimeMinutes": 1,
+    "genres": [
+      "Documentary",
+      "Short"
+    ]
+  },
+  {
+    "tconst": "tt0000002",
+    "titleType": "short",
+    "primaryTitle": "Le clown et ses chiens",
+    "originalTitle": "Le clown et ses chiens",
+    "isAdult": false,
+    "startYear": 1892,
+    "endYear": null,
+    "runtimeMinutes": 5,
+    "genres": [
+      "Animation",
+      "Short"
+    ]
+  },
+  {
+    "tconst": "tt0000003",
+    "titleType": "short",
+    "primaryTitle": "Pauvre Pierrot",
+    "originalTitle": "Pauvre Pierrot",
+    "isAdult": false,
+    "startYear": 1892,
+    "endYear": null,
+    "runtimeMinutes": 4,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Romance"
+    ]
+  },
+  {
+    "tconst": "tt0000004",
+    "titleType": "tvSeries",
+    "primaryTitle": "Un bon bock",
+    "originalTitle": "Un bon bock",
+    "isAdult": false,
+    "startYear": 1892,
+    "endYear": 1893,
+    "runtimeMinutes": null,
+    "genres": [
+      "Animation",
+      "Short"
+    ]
+  },
+  {
+    "tconst": "tt0000005",
+    "titleType": "short",
+    "primaryTitle": "Blacksmith \"Scene\"",
+    "originalTitle": "Blacksmith \"Scene\"",
+    "isAdult": false,
+    "startYear": 1893,
+    "endYear": null,
+    "runtimeMinutes": 1,
+    "genres": [
+      "Short"
+    ]
+  },
+  {
+    "tconst": "tt0000006",
+    "titleType": "short",
+    "primaryTitle": "Chinese Opium Den",
+    "originalTitle": "Chinese Opium Den",
+    "isAdult": false,
+    "startYear": 1894,
+    "endYear": null,
+    "runtimeMinutes": 1,
+    "genres": [
+      "Short"
+    ]
+  }
+]

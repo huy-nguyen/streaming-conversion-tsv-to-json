@@ -1,0 +1,16 @@
+tconst	ordering	nconst	category	job	characters
+tt0000001	1	nm1588970	self	\N	["Herself"]
+tt0000001	2	nm0005690	director	\N	\N
+tt0000001	3	nm0374658	cinematographer	director of photography	\N
+tt0000002	1	nm0721526	director	\N	\N
+tt0000003	1	nm0721526	director	\N	\N
+tt0000003	2	nm5442194	producer	producer	\N
+tt0000003	3	nm1335271	composer	\N	\N
+tt0000003	4	nm5442200	editor	\N	\N
+tt0000004	1	nm0721526	director	\N	\N
+tt0000004	2	nm1335271	composer	\N	\N
+tt0000005	1	nm0443482	actor	\N	"Himself"
+tt0000005	2	nm0653042	actor	\N	["Himself","Some other dude"]
+tt0000005	3	nm0005690	director	\N	\N
+tt0000006	1	nm0005690	director	\N	\N
+tt0000007	1	nm0179163	actress	\N	["Madeleine Fontevrault \"das Bildnis\""]

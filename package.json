@@ -7,7 +7,11 @@
     "eslint": "eslint .",
     "eslint:fix": "eslint . --fix",
     "lint": "npm run eslint && npm run tslint",
-    "test": "jest --verbose --coverage"
+    "test": "jest --verbose --coverage",
+    "download:simple": "curl https://datasets.imdbws.com/title.basics.tsv.gz | gunzip > realInput/title.basics.tsv",
+    "download:advanced": "curl https://datasets.imdbws.com/title.principals.tsv.gz | gunzip > realInput/title.principals.tsv",
+    "convert:simple": "ts-node src/simpleExample.ts",
+    "convert:advanced": "ts-node src/advancedExample.ts"
   },
   "keywords": [],
   "author": "",
@@ -25,10 +29,16 @@
     "eslint-plugin-jest": "21.15.1",
     "eslint-plugin-react": "7.7.0",
     "jest": "22.4.3",
+    "mock-fs": "4.5.0",
     "ts-jest": "22.4.5",
     "tslint": "5.10.0",
     "typescript": "2.8.3"
   },
   "dependencies": {
+    "@types/rimraf": "2.0.2",
+    "csv-parse": "2.4.0",
+    "rimraf": "2.6.2",
+    "stream-transform": "1.0.2",
+    "ts-node": "6.0.3"
   }
 }

@@ -6,10 +6,10 @@
     "noImplicitAny": true,
     "removeComments": true,
     "target": "ESNext",
-    "module": "ESNext",
+    "module": "commonjs",
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-  },
+  }
 }
